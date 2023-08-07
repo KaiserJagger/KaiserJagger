@@ -12,6 +12,7 @@
 
 <h4 align="center">Gracias por pasar por aquí 😁</h4>
 
+<p align="center"><img src="https://profile-counter.glitch.me/{KaiserJagger}/count.svg" alt="KaiserJagger :: Visitor's Count" /></p>
 
 
 
