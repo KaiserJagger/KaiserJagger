@@ -1,4 +1,16 @@
-<h1 align="center">Soy Nicolás Andreolli</h1>
+<h1 align="center">Hola! 👋<br />Me llamo Nicolás Andreolli</h1>
+<h2 align="center">Full Stack Javascript Developer</h2>
+<h3 align="center">🎯Dedicado al aprendizaje continuo y mejorando mis habilidades de programación. Busco ser parte de un equipo de trabajo ágil para solucionar problemas empresariales desde el FRONT y/o desde el BACK 🚀</h3>
+&nbsp;<br />
+
+
+- 📄 *** FULLSTACK WEB DEVELOPER ***
+- 👉 Autodidacta, capaz de aprender y adaptarme a cualquier lenguaje de programación o tecnología en corto tiempo.-
+- 👉 HTML, CSS, JavaScript, Bootstrap, NodeJS, MySQL, MongoDB.
+- 👉 email: nicolasandreolli18@gmail.com o kaiserjager10@gmail.com
+
+
+<h4 align="center">Gracias por pasar por aquí 😁</h4>
 
 
 
@@ -6,19 +18,3 @@
 
 
 
-
-
-<!--
-**KaiserJagger/KaiserJagger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
