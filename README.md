@@ -6,7 +6,7 @@
 
 - 📄 *** FULLSTACK WEB DEVELOPER ***
 - 👉 Autodidacta, capaz de aprender y adaptarme a cualquier lenguaje de programación o tecnología en corto tiempo.-
-- 👉 HTML, CSS, JavaScript, Bootstrap, NodeJS, MySQL, MongoDB.
+- 👉 HTML, CSS, JavaScript, Bootstrap, React, NodeJS, MySQL, MongoDB.
 - 👉 email: nicolasandreolli18@gmail.com o kaiserjager10@gmail.com
 
 
