@@ -1,6 +1,6 @@
-<h1 align="center">Hola! 👋<br />Me llamo Nicolás Andreolli</h1>
-<h2 align="center">Desarrollador Full-stack</h2>
-<h3 align="center">🎯Dedicado al aprendizaje continuo y mejorando mis habilidades de programación. Busco ser parte de un equipo de trabajo ágil para solucionar problemas empresariales desde el FRONT y/o desde el BACK 🚀</h3>
+<h1 align="center">Hello! 👋 👋<br />My name is Nicolás Andreolli</h1>
+<h2 align="center">Fullstack Developer</h2>
+<h3 align="center">🎯Dedicated to continuous learning and improving my programming skills. I am looking to be part of an agile work team to solve business problems from the FRONT and/or from the BACK 🚀</h3>
 &nbsp;<br />
 
 
@@ -8,7 +8,7 @@
 - 👉 email: kaiserjager10@gmail.com
 
 
-<h4 align="center">Gracias por pasar por aquí 😁</h4>
+<h4 align="center">Thanks for the visit😁</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{KaiserJagger}/count.svg" alt="KaiserJagger :: Visitor's Count" /></p>
 
