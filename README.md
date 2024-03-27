@@ -6,7 +6,7 @@
 
 - 👉 HTML, CSS, JavaScript, Bootstrap, React, NodeJS, MySQL, MongoDB.
 - 👉email: kaiserjager10@gmail.com
-- 👉Portfolio: https://kaiserjagger.up.railway.app/
+- 👉Portfolio: {target="_blank"} https://kaiserjagger.up.railway.app/
 
 <h4 align="center">Thanks for the visit😁</h4>
 
