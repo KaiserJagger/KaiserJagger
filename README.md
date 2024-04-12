@@ -3,12 +3,15 @@
 <h3 align="center">🎯Dedicated to continuous learning and improving my programming skills. I am looking to be part of an agile work team to solve business problems from the FRONT and/or from the BACK 🚀</h3>
 &nbsp;<br />
 
+👉 Front End: JavaScript | TypeScript | HTML5 | CSS3 | Tailwind CSS | React | React-Native | jQuery
 
-👉 HTML, CSS, JavaScript, Bootstrap, React, NodeJS, MySQL, MongoDB.
+👉 Back End: Node.js | PHP | Laravel | Codeigniter | Django | MongoDB | MySQL | PostgreSQL | ORM | GraphQL
 
-👉email: kaiserjager10@gmail.com
+👉 API Integrations: ChatGPT | Stripe | Azure | Google | Zoom
 
-👉Portfolio: https://kaiserjagger.up.railway.app
+👉 DevOps: Amazon Web Services (AWS) | Firebase/GCP(Google Cloud Platform) | Azure | Docker | Namecheap
+
+👉 Developer Tools: Git | npm | yarn | Webpack | Babel | Postman | Nginx
 
 <h4 align="center">Thanks for the visit😁</h4>
 
