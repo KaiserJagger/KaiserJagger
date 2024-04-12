@@ -1,6 +1,6 @@
 <h1 align="center">Hi! 👋 👋<br />My name is Nicolás Andreolli</h1>
 <h2 align="center">Fullstack Developer</h2>
-<h3 align="center">🎯Dedicated to continuous learning and improving my programming skills. I am looking to be part of an agile work team to solve business problems from the FRONT and/or from the BACK 🚀</h3>
+<h3 align="center">🎯I have been involved in passionate Web and Mobile app development and I specialize in designing and implementing scalable, secure, and user-friendly web or mobile applications using a wide range of technologies and programming languages.🚀</h3>
 &nbsp;<br />
 
 👉 Front End: JavaScript | TypeScript | HTML5 | CSS3 | Tailwind CSS | React | React-Native | jQuery
