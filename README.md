@@ -3,13 +3,13 @@
 <h3 align="center">🎯I have been involved in passionate Web and Mobile app development and I specialize in designing and implementing scalable, secure, and user-friendly web or mobile applications using a wide range of technologies and programming languages.🚀</h3>
 &nbsp;<br />
 
-👉 Front End: JavaScript | TypeScript | HTML5 | CSS3 | Tailwind CSS | React | React-Native | jQuery
+👉 Front End: JavaScript | TypeScript | HTML5 | CSS3 | Tailwind CSS | React | jQuery
 
-👉 Back End: Node.js | PHP | Laravel | Codeigniter | Django | MongoDB | MySQL | PostgreSQL | ORM | GraphQL
+👉 Back End: Node.js | PHP | Laravel | MongoDB | MySQL |
 
 👉 API Integrations: ChatGPT | Stripe | Azure | Google | Zoom
 
-👉 DevOps: Amazon Web Services (AWS) | Firebase/GCP(Google Cloud Platform) | Azure | Docker | Namecheap
+👉 DevOps: Amazon Web Services (AWS) | Firebase/GCP(Google Cloud Platform)
 
 👉 Developer Tools: Git | npm | yarn | Webpack | Babel | Postman | Nginx
 
